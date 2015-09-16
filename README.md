@@ -120,11 +120,11 @@ b.doLogic();
 ```
 
 
-# HashTable.
+# HashTable
 
 Hash table uses numbers and strings as keys.
 
-# HashMap.
+# HashMap
 
 Hash map uses objects as keys.
 
